@@ -85,7 +85,7 @@ Use the higher order function getAverageGoals to do the following:
  2. Return the the average number of the total home team goals and away team goals scored per match and round to the second decimal place. 
  
  (Hint: use .reduce and do this in 2 steps) 
- 
+ //
  Example of invocation: getAverageGoals(getFinals(fifaData));
 */
 
